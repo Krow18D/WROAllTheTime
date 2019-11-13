@@ -1,0 +1,9 @@
+[CE-KMITL-01]
+CE-KMITL-01 = "172.22.11.2"
+
+[My Computer]
+My Computer = "169.254.6.226"
+
+[RT myRIO Target]
+RT myRIO Target = "172.22.11.2"
+

@@ -1,0 +1,25 @@
+cam_setting for Color Location partical analyst
+b 175
+c 14
+sa 57
+sh 52
+g 36
+exp auto **
+wb auto **
+
+remove small 15
+close 31
+
+cam setting fot reg box
+b 131 
+c 25
+sa 50
+sh 175
+exp 330
+wb 4766
+f 70
+
+cube red ~450
+box red ~700
+cube orange ~400	
+box orange ~400
